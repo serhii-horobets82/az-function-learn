@@ -1,0 +1,22 @@
+{
+  "name": "az-function-learn",
+  "version": "1.0.0",
+  "description": "Sample Azure function",
+  "scripts": {
+    "start": "func start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serhii-horobets82/az-function-learn.git"
+  },
+  "keywords": [
+    "Azure",
+    "function"
+  ],
+  "author": {
+    "name": "Serhii Horobets",
+    "email": "serhii.horobets82@gmail.com"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+    "correct_answer": "July 2, 1776",
+    "incorrect_answers": ["May 4, 1776", "June 4, 1776", "July 4, 1776"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sign of the zodiac is represented by the Crab?",
+    "correct_answer": "Cancer",
+    "incorrect_answers": ["Libra", "Virgo", "Sagittarius"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the Morse code, which letter is indicated by 3 dots? ",
+    "correct_answer": "S",
+    "incorrect_answers": ["O", "A", "C"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the Jewish New Year?",
+    "correct_answer": "Rosh Hashanah",
+    "incorrect_answers": ["Elul", "New Year", "Succoss"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What year was Queen Elizabeth II born?",
+    "correct_answer": "1926",
+    "incorrect_answers": ["1923", "1929", "1930"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+    "correct_answer": "Bullfighting",
+    "incorrect_answers": ["Fiestas", "Flamenco", "Mariachi"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+    "correct_answer": "Tandoori",
+    "incorrect_answers": ["Biryani", "Pani puri", "Tiki masala"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+    "correct_answer": "Center Parcs",
+    "incorrect_answers": ["Yelloh Village", "Keycamp", "Villa Plus"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which restaurant&#039;s mascot is a clown?",
+    "correct_answer": "McDonald&#039;s",
+    "incorrect_answers": ["Whataburger", "Burger King", "Sonic"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+    "correct_answer": "Twilight Zone Tower of Terror",
+    "incorrect_answers": [
+      "The Haunted Mansion",
+      "Pirates of the Caribbean",
+      "Peter Pan&#039;s Flight"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where does water from Poland Spring water bottles come from?",
+    "correct_answer": "Maine, United States",
+    "incorrect_answers": [
+      "Hesse, Germany",
+      "Masovia, Poland",
+      "Bavaria, Poland"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which product did Nokia, the telecommunications company, originally sell?",
+    "correct_answer": "Paper",
+    "incorrect_answers": ["Phones", "Computers", "Processors"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What machine element is located in the center of fidget spinners?",
+    "correct_answer": "Bearings",
+    "incorrect_answers": ["Axles", "Gears", "Belts"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In which fast food chain can you order a Jamocha Shake?",
+    "correct_answer": "Arby&#039;s",
+    "incorrect_answers": ["McDonald&#039;s", "Burger King", "Wendy&#039;s"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What zodiac sign is represented by a pair of scales?",
+    "correct_answer": "Libra",
+    "incorrect_answers": ["Aries", "Capricorn", "Sagittarius"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the star sign of someone born on Valentines day?",
+    "correct_answer": "Aquarius",
+    "incorrect_answers": ["Pisces", "Capricorn", "Scorpio"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Popcorn was invented in 1871 by Frederick W. Rueckheim in the USA where he sold the snack on the streets of Chicago.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+    "correct_answer": "35 Pounds",
+    "incorrect_answers": ["30 Pounds", "40 Pounds", "32.50 Pounds"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Slovakia is a member of European Union-",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  }
+]
